@@ -1,0 +1,5 @@
+npm init > dar ok em tudo
+
+npm install json-server
+
+npx json-server --watch db.json OU json-server --watch db.json
